@@ -1,0 +1,138 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Moustache
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Moustache_Opacity.png
+map_Kd CJ2_Moustache_Diffuse.png
+adobe_map_normal CJ2_Moustache_Normal.png
+map_Ks CJ2_Moustache_Specular.png
+adobe_map_shininess CJ2_Moustache_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Hair_Opacity.png
+map_Kd CJ2_Hair_Diffuse.png
+adobe_map_normal CJ2_Hair_Normal.png
+map_Ks CJ2_Hair_Specular.png
+adobe_map_shininess CJ2_Hair_Gloss.png
+
+newmtl Beard
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Beard_Opacity.png
+map_Kd CJ2_Beard_Diffuse.png
+adobe_map_normal CJ2_Beard_Normal.png
+map_Ks CJ2_Beard_Specular.png
+adobe_map_shininess CJ2_Beard_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Shoes_Opacity.png
+map_Kd CJ2_Shoes_Diffuse.png
+adobe_map_normal CJ2_Shoes_Normal.png
+map_Ks CJ2_Shoes_Specular.png
+adobe_map_shininess CJ2_Shoes_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Bottom_Opacity.png
+map_Kd CJ2_Bottom_Diffuse.png
+adobe_map_normal CJ2_Bottom_Normal.png
+map_Ks CJ2_Bottom_Specular.png
+adobe_map_shininess CJ2_Bottom_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Body_Opacity.png
+map_Kd CJ2_Body_Diffuse.png
+adobe_map_normal CJ2_Body_Normal.png
+map_Ks CJ2_Body_Specular.png
+adobe_map_shininess CJ2_Body_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Top_Opacity.png
+map_Kd CJ2_Top_Diffuse.png
+adobe_map_normal CJ2_Top_Normal.png
+map_Ks CJ2_Top_Specular.png
+adobe_map_shininess CJ2_Top_Gloss.png
+
+newmtl Glove
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d CJ2_Glove_Opacity.png
+map_Kd CJ2_Glove_Diffuse.png
+adobe_map_normal CJ2_Glove_Normal.png
+map_Ks CJ2_Glove_Specular.png
+adobe_map_shininess CJ2_Glove_Gloss.png
+
