@@ -9,6 +9,7 @@ https://drive.google.com/file/d/1RU04mi9hRoiyUSWQiGsS_D1FKYaWOIzK/view?usp=shari
 
 Screenshots:
 
+![Verg-2020-05-25-23-57-24-1-1-1-1 (5)](https://user-images.githubusercontent.com/47672527/83320005-19d8be00-a211-11ea-9eff-6b4e03b2d475.gif)
 
 ![Verg-2020-05-25-23-57-24-1-1-1-1](https://user-images.githubusercontent.com/47672527/83319849-e34e7380-a20f-11ea-827d-f65925b5d06d.gif)
 
